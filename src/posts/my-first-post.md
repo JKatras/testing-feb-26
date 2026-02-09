@@ -16,8 +16,7 @@ Testing editorial workflow; will this send a PR?
 
 ## Emphasis
 
-*This text will be italic*\
-*This will also be italic*
+*M﻿ore testing*
 
 **This text will be bold**\
 **This will also be bold**
