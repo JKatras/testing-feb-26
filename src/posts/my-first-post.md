@@ -1,6 +1,6 @@
 ---
 title: This is my first post
-description: Updated description
+description: Updated description 2:30 pm
 author: Surjith S M
 date: 2020-09-01
 tags:
